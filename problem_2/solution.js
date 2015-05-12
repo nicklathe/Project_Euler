@@ -7,8 +7,6 @@ By considering the terms in the Fibonacci sequence whose values do not exceed fo
 
 */
 
-// var maxVal = 0;
-
 var fibMe = function(maxVal) {
     var sum = 0;
     var num1 = 1;
